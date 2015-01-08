@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/player_up.png</file>
+        <file>images/player_play.png</file>
+        <file>images/player_pause.png</file>
+        <file>images/player_folder.png</file>
+        <file>images/player_end.png</file>
+        <file>images/player_down.png</file>
+        <file>images/player_slower.png</file>
+        <file>images/player_faster.png</file>
+        <file>images/volume.png</file>
+        <file>images/volume_mute.png</file>
+        <file>images/repeat_all.png</file>
+        <file>images/repeat_one.png</file>
+    </qresource>
+</RCC>
